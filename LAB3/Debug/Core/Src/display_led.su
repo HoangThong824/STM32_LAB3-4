@@ -1,0 +1,6 @@
+display_led.c:35:6:set_red_leds	16	static
+display_led.c:40:6:set_amber_leds	16	static
+display_led.c:45:6:set_green_leds	16	static
+display_led.c:50:6:update_leds	8	static
+display_led.c:77:6:display_mode_on_7segment	24	static
+display_led.c:88:6:display_time_on_7segment	24	static
